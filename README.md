@@ -5,6 +5,15 @@
 # **Table of contents**
 
 - [Configuración inicial](#configuración-inicial)
+- [Consignas del ejercicio](#Consignas-del-ejercicio)
+- [Clase padre (Persona)](#Crear-una-clase-padre)
+- [Clase hija (Empleado)](#Crear-una-primer-clase-hija)
+- [Clase hija (Cliente)](#Crear-una-segunda-clase-hija)
+- [Variables](#Crear-dos-variables-a-cada-clase)
+- [Valores de nuestras variables](#Agregar-valores-a-nuestras-variables)
+- [Imprimir en consola](#Imprimir-nuestras-variables-en-consola)
+- [Formato](#Dar-formato)
+- [Documentación del ejercicio](#Documentación-del-ejercicio)
 
 ## *Configuración inicial*
 1. Inicié terminal Git Bash
@@ -60,16 +69,20 @@
 -cliente1 y cliente2 a nuestra clase de Cliente
 
 5.# *Agregar valores a nuestras variables*
+-Agregar los valores correspondientes a cada una de nuestras variables creadas
 
 6.## *Imprimir nuestras variables en consola*
 -Obtener el resultado de tostring() de cada una de nuestras clases
 
 7.## *Dar formato*
+-Dar formato a nuestro ejercicio realizado
 
 
 
 ### *Documentación del ejercicio*
 ![Consignas para cada clase](image/09-13-EjercicioHerencia-UJS.png)
+
+---
 
 
 
