@@ -75,7 +75,7 @@
 -Obtener el resultado de tostring() de cada una de nuestras clases
 
 7. *Dar formato*
--Dar formato a nuestro ejercicio realizado
+- Dar formato a nuestro ejercicio realizado
 
 
 
