@@ -1,52 +1,53 @@
 class Persona {
+  static contadorPersonas = 0;
 
-    static contadorPersonas = 0;
+  constructor(nombre, apellido, edad) {
+    this._nombre = nombre;
 
-    constructor (nombre, apellido, edad){
+    this._apellido = apellido;
 
-        this._nombre = nombre;
+    this._edad = edad;
 
-        this._apellido = apellido;
+    this._idPersona = ++Persona.contadorPersonas;
+  }
 
-        this._edad = edad;
+  get idPersona() {
+    return this._idPersona;
+  }
 
-        this._idPersona = ++Persona.contadorPersonas ;
-    }
+  get nombre() {
+    return this._nombre;
+  }
 
-    get idPersona (){
-      return  this._idPersona;
-    }
+  set nombre(nombre) {
+    this._nombre = nombre;
+  }
 
-    get nombre (){
+  get apellido() {
+    return this._apellido;
+  }
 
-        return this._nombre;
-    }
+  set apellido(apellido) {
+    this._apellido = apellido;
+  }
 
-    set nombre (nombre){
-        this._nombre = nombre;
-    }
+  get edad() {
+    return this._edad;
+  }
 
-    get apellido (){
+  set edad(edad) {
+    this._edad = edad;
+  }
 
-        return this._apellido;
-    }
-
-    set apellido (apellido){
-
-        this._apellido = apellido;
-    }
-
-    get edad () {
-
-        return this._edad;
-    }
-
-    set edad (edad){
-
-        this._edad = edad;
-    }
-
-    toString (){
-        "N° de persona: " + this._idPersona + ", " + this._apellido + " " + this._nombre + ", " + this._edad + "años"
-    }
+  toString() {
+    "N° de persona: " +
+      this._idPersona +
+      ", " +
+      this._apellido +
+      " " +
+      this._nombre +
+      ", " +
+      this._edad +
+      "años";
+  }
 }
