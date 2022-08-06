@@ -63,16 +63,16 @@
 - Agregar método set sólo al atributo fecha de registro.
 - Concatenar todo con toString()
 
-4. ## *Crear dos variables a cada clase*
+4. *Crear dos variables a cada clase*
 -persona1 y persona2 a nuestra clase de Persona
 -empleado1 y empleado2 a nuestra clase de Empleado
 -cliente1 y cliente2 a nuestra clase de Cliente
 
 5. *Agregar valores a nuestras variables*
--Agregar los valores correspondientes a cada una de nuestras variables creadas
+- Agregar los valores correspondientes a cada una de nuestras variables creadas
 
 6. *Imprimir nuestras variables en consola*
--Obtener el resultado de tostring() de cada una de nuestras clases
+- Obtener el resultado de tostring() de cada una de nuestras clases
 
 7. *Dar formato*
 - Dar formato a nuestro ejercicio realizado
