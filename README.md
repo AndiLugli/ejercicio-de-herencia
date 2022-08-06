@@ -37,7 +37,7 @@
 # **Consignas del ejercicio**
 
 
-1.##*Crear una clase padre*
+1. ##*Crear una clase padre*
 - Crear una clase padre llamada Persona
 - Agregar un static de contador a ésta clase
 - Agregar atributos de "idPersona,nombre, apellido y edad"
@@ -45,7 +45,7 @@
 - Agregar métodos set a los atributos de "nombre, apellido y edad"
 - Concatenar todo con toString()
 
-2.## *Crear una primer clase hija*
+2. ## *Crear una primer clase hija*
 - Crear una clase hija llamada "Empleado" que herede de clase Persona
 - Agregar un static de contador a ésta clase
 - Heredar atributos de clase Persona
@@ -54,7 +54,7 @@
 - Agregar método set sólo al atributo sueldo.
 - Concatenar todo con toString()
 
-3.## *Crear una segunda clase hija*
+3. ## *Crear una segunda clase hija*
 - Crear una clase hija llamada "Cliente" que herede de clase Persona
 - Agregar un static de contador a ésta clase
 - Heredar atributos de clase Persona
@@ -63,18 +63,18 @@
 - Agregar método set sólo al atributo fecha de registro.
 - Concatenar todo con toString()
 
-4.## *Crear dos variables a cada clase*
+4. ## *Crear dos variables a cada clase*
 -persona1 y persona2 a nuestra clase de Persona
 -empleado1 y empleado2 a nuestra clase de Empleado
 -cliente1 y cliente2 a nuestra clase de Cliente
 
-5.# *Agregar valores a nuestras variables*
+5. ## *Agregar valores a nuestras variables*
 -Agregar los valores correspondientes a cada una de nuestras variables creadas
 
-6.## *Imprimir nuestras variables en consola*
+6. ## *Imprimir nuestras variables en consola*
 -Obtener el resultado de tostring() de cada una de nuestras clases
 
-7.## *Dar formato*
+7. ## *Dar formato*
 -Dar formato a nuestro ejercicio realizado
 
 
