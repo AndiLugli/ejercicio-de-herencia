@@ -46,6 +46,9 @@
 - Agregar métodos set a los atributos de "nombre, apellido y edad"
 - Concatenar todo con toString()
 
+
+
+
 2. **Crear una primer clase hija**
 
 - Crear una clase hija llamada "Empleado" que herede de clase Persona
@@ -55,6 +58,9 @@
 - Agregar métodos get a éstos 2 atributos
 - Agregar método set sólo al atributo sueldo.
 - Concatenar todo con toString()
+
+
+
 
 3. **Crear una segunda clase hija**
 
@@ -66,23 +72,36 @@
 - Agregar método set sólo al atributo fecha de registro.
 - Concatenar todo con toString()
 
+
+
+
 4. **Crear dos variables a cada clase**
 
 - Nombrar persona1 y persona2 a nuestras variables de clase de Persona
 - Nombrar empleado1 y empleado2 a nuestras variables de clase de Empleado
 - Nombrar cliente1 y cliente2 a nuestras variables de  clase de Cliente
 
+
+
+
 5. **Agregar valores a nuestras variables**
 
 - Agregar los valores correspondientes a cada una de nuestras variables creadas
+
+
+
 
 6. **Imprimir nuestras variables en consola**
  
 - Obtener el resultado de tostring() de cada una de nuestras clases
 
+
+
+
 7. **Dar formato**
 
 - Dar formato a nuestro ejercicio realizado
+
 
 
 
